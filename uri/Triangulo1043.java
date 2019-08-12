@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Triangulo1043 {
+public class main {
 
     public static void main(String[] args) {
 
