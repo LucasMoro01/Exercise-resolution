@@ -1,2 +1,3 @@
 # Exercise-resolution
-Exercise resolution on the URI and SPOJ platform.
+Resolução de exercícios para treinamento de lógica, programação e orientação a objetos.
+ 
